@@ -9,7 +9,7 @@ declare var ol: any;
 export class AppComponent {
     name = "Angular";
   latitude: number = 2.335106;
-  longitude: number = 48.861191;
+  longitude: number = 46.8;
 
   map: any;
 
